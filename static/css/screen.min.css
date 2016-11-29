@@ -406,6 +406,10 @@ body {
     font-weight: 400;
     margin-bottom: 10px
 }
+.what_image {
+    width: 65%;
+    min-width: 350px
+}
 .portfolio__descr {
     font-size: 14px;
     font-weight: 400;
